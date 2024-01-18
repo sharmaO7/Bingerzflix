@@ -22,4 +22,19 @@ unsubscribed to the onAuthStateChanged callback
 add harcoded values to the constants file
 register TMDB api and create an app and get access token
 get data from TMDB now playing movies list API
+custom hook for now playing movies
+create movieslice
+update store with movies data
+planned mainContainer and secondaryContainer
+fetch data for Trailer video
+update store with Trailer movie data
+embedded the youtube video and make it autoplay and mute
+added Tailwind classes in the main container
+Build secondary component
+Build Movie List
+build movie card
+added tmdb image CDN Url
+added tailwind css in browse page
+usePopularMovies custom hooks
+
 

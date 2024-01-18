@@ -46,7 +46,7 @@ const Header = () => {
     <div className="absolute w-screen bg-gradient-to-b from-black z-10 flex justify-between">
       <img
         className="w-44 mx-36 my-4"
-        src="https://png.pngtree.com/element_our/20190603/ourmid/pngtree-movie-board-icon-image_1455346.jpg"
+        src=""
         alt="flix logo"
       />
       {user && (
